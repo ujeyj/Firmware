@@ -1,0 +1,6 @@
+[submodule "stack"]
+	path = stack
+	url = https://github.com/ujeyj/stack.git
+[submodule "Application"]
+	path = Application
+	url = https://github.com/ujeyj/Application.git
